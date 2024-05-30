@@ -708,12 +708,9 @@ display: flex;
 align-items: center;
 justify-content: space-between;
 }
-
-
 .contact-info {
   width: 50%;
 }
-
 .contact-info-item {
   display: flex;
   margin-left: 200px;
@@ -857,4 +854,8 @@ button:hover {
     font-size: 25px;
     color: #fff;
     text-align: center;
+}
+.link{
+  text-decoration: none;
+  color: #FFF;
 }
