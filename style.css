@@ -752,7 +752,16 @@ justify-content: space-between;
   margin-left: 200px;
   margin-bottom: 40px;
 }
-
+.contact_infomation{
+  height: 150px;
+    text-align: center;
+    font-size: 25px;
+    color: #3EC1D3;
+}
+.contact_infomation h4{
+  color:#fff;
+  font-size: 30px;
+}
 .contact-info-icon {
   height: 70px;
   width: 70px;
