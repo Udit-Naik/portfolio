@@ -45,9 +45,6 @@ body{
     background-size: 400%;
     animation: Gradient 15s ease infinite;
     position: relative;
-   /* height: 60vh;
-    width: 145vh;
-   overflow: none;*/
     scrollbar-width: none;
     padding:0px;
     margin:0px;
