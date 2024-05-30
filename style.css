@@ -728,6 +728,7 @@ justify-content: space-between;
 .contact_infomation h4{
   color:#fff;
   font-size: 30px;
+  margin: 10px;
 }
 .contact-info-icon {
   height: 70px;
